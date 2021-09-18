@@ -4,5 +4,5 @@ public abstract class AbstractFactory {
      * @param productName - name of the product being created
      * @return an instance of the created product
      */
-    abstract Product createProduct(String productName);
+    abstract Product createProduct(String productType);
 }
