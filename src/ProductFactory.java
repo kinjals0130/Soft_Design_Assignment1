@@ -4,14 +4,13 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class ProductFactory extends AbstractFactory {
-
     /**
-     * Creates product and sets the price of the product right when the product is created
+     * Creates product and sets the price of the product right when it is created
      * @param productType - String of the product type
      * @return an instance of the created product
      */
     @Override
-     Product createProduct(String productType) {
+    Product createProduct(String productType) {
         HashMap<String, Integer> products = new HashMap<String, Integer>();
         try {
             File productDatabase = new File ("src/Products.txt");
@@ -29,7 +28,6 @@ public class ProductFactory extends AbstractFactory {
             Honda honda = new Honda();
             honda.setPrice(products.get("Honda"));
             return honda;
-
         } else if (productType.equalsIgnoreCase("toyota")){
             Toyota toyota = new Toyota();
             toyota.setPrice(products.get("Toyota"));

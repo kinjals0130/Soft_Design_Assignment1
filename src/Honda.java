@@ -4,7 +4,7 @@ public class Honda implements Product{
     private int price = 0;
 
     /**
-     * Set the price of Honda according to the price set in the database
+     * Sets the price of Honda according to the price set in the database
      */
     @Override
     public void setPrice(int price) {
