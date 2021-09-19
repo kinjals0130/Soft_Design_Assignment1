@@ -1,4 +1,4 @@
-Contributors:
+**Contributors:**
 
 Rutvi Shah (100747171)
 Foram Gandhi (100699245)
