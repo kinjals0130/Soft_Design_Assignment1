@@ -1,4 +1,4 @@
-The contributors for this assignment are:
+Contributors:
 
 Rutvi Shah (100747171)
 Foram Gandhi (100699245)
