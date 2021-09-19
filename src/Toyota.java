@@ -11,22 +11,8 @@ public class Toyota implements  Product{
      * Set the price of Toyota according to the price set in the database
      */
     @Override
-    public void setPrice() {
-        try {
-            File productDatabase = new File ("src/Products.txt");
-            Scanner myReader = new Scanner(productDatabase);
-
-            while (myReader.hasNextLine()) {
-                String product = myReader.nextLine();
-                if(product.startsWith("Toyota")){
-                    this.price = Integer.parseInt(product.substring(product.lastIndexOf(",") + 1));
-                    break;
-                }
-            }
-            System.out.println("The price for Toyota has been set to: $" + this.price);
-        } catch (FileNotFoundException e){
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
+    public void setPrice(int price) {
+        this.price = price;
+        System.out.println("The price for Toyota has been set to: $" + this.price);
     }
 }
