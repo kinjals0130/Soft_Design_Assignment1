@@ -2,14 +2,12 @@
 
 ## Table of Contents
 
-1. [Code](https://github.com/tree/main/src)
-2. 
-
-**UML Diagram Link:** https://drive.google.com/file/d/1Um6oG99B4yKVgXj0D7yySpwkrB89JRwN/view?usp=sharing
+1. [Code](https://github.com/rutvishah859/Software_Design_Assignment_1/tree/main/src)
+2. [UML Diagram](https://github.com/rutvishah859/Software_Design_Assignment_1/blob/main/UML%20Diagram.PNG)
 
 <p align="center"><img width="500" src="UML Diagram.PNG"></p>
 
-**Driver Test Output:**
+3. [Driver Test Output](https://github.com/rutvishah859/Software_Design_Assignment_1/blob/main/Test%20Output.PNG)
 
 <p align="center"><img width="500" src="Test Output.PNG"></p>
 
