@@ -7,8 +7,8 @@ Danial Shaikh (100698628)
 
 **UML Diagram Link: ** https://drive.google.com/file/d/1Um6oG99B4yKVgXj0D7yySpwkrB89JRwN/view?usp=sharing
 
-<img src="UML Diagram.PNG">
+<img width="400" src="UML Diagram.PNG">
 
 **Driver Test Output: **
 
-![](Test Output.PNG)
+<img width="400" src="Test Output.PNG">
