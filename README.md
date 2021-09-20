@@ -7,7 +7,7 @@ Danial Shaikh (100698628)
 
 **UML Diagram Link: ** https://drive.google.com/file/d/1Um6oG99B4yKVgXj0D7yySpwkrB89JRwN/view?usp=sharing
 
-![](UML Diagram.PNG)
+<img src="UML Diagram.PNG">
 
 **Driver Test Output: **
 
