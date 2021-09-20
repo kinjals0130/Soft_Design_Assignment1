@@ -4,14 +4,9 @@
 
 1. [Code](https://github.com/rutvishah859/Software_Design_Assignment_1/tree/main/src)
 2. [UML Diagram](https://github.com/rutvishah859/Software_Design_Assignment_1/blob/main/UML%20Diagram.PNG)
-
 3. [Driver Test Output](https://github.com/rutvishah859/Software_Design_Assignment_1/blob/main/Test%20Output.PNG)
 
-<p float="left">
-  <img src="UML Diagram.PNG" width="400" />
-  <img src="Test Output.PNG" width="400" /> 
-</p>
-
+<p float="center"><img src="Test Output.PNG" width="400" /></p>
 
 ### Contributors:
 
